@@ -17,5 +17,5 @@ Jan Lara
 
 <h2> Busca por source </h2>
 
-https://api.mendeley.com/search/catalog?source=ciencia+da+informa%C3%A7%C3%A3o&limit=3&access_token=
+https://api.mendeley.com/search/catalog?source=ciencia+da+informa%C3%A7%C3%A3o&view=stats&access_token=
 
